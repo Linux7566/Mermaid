@@ -1,4 +1,4 @@
-# Zadanie
+# Mermaid
 # TEA
 ```mermaid
 graph TD
